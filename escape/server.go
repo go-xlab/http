@@ -23,9 +23,3 @@ func main() {
 		panic(err)
 	}
 }
-
-// http请求中加号被替换为空格
-// https://www.cnblogs.com/thisiswhy/p/12119126.html
-
-// URL encoding the space character: + or %20?
-// https://stackoverflow.com/questions/1634271/url-encoding-the-space-character-or-20
