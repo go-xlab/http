@@ -10,3 +10,9 @@
 
 1. 提前编码好，加号转成`%2B`
 2. 直接拿到`r.URL.RawQuery`，自行处理
+
+Ref:
+
+* [http请求中加号被替换为空格](https://www.cnblogs.com/thisiswhy/p/12119126.html)
+* [URL encoding the space character: + or %20?](https://stackoverflow.com/questions/1634271/url-encoding-the-space-character-or-20)
+
